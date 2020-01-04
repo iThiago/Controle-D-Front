@@ -11,7 +11,7 @@ ReactDOM.render(
     <BrowserRouter basename={process.env.PUBLIC_URL || ''}>
       <Route exact path="/" component={homePage} />
     </BrowserRouter>
-    <div>{process.env.PUBLIC_URL}</div>
+    {/* <div>{process.env.PUBLIC_URL}</div> */}
   </div>,
   document.getElementById('root')
 );
