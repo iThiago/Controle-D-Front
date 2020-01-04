@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/ControleD-MASTER/static/css/main.04cf1866.chunk.css",
+    "main.js": "/ControleD-MASTER/static/js/main.cae35395.chunk.js",
+    "main.js.map": "/ControleD-MASTER/static/js/main.cae35395.chunk.js.map",
+    "runtime-main.js": "/ControleD-MASTER/static/js/runtime-main.ec7964d3.js",
+    "runtime-main.js.map": "/ControleD-MASTER/static/js/runtime-main.ec7964d3.js.map",
+    "static/js/2.6d865366.chunk.js": "/ControleD-MASTER/static/js/2.6d865366.chunk.js",
+    "static/js/2.6d865366.chunk.js.map": "/ControleD-MASTER/static/js/2.6d865366.chunk.js.map",
+    "customServiceWorker.js": "/ControleD-MASTER/customServiceWorker.js",
+    "index.html": "/ControleD-MASTER/index.html",
+    "precache-manifest.506ee35ec3f496ab37db40d3f6e3be44.js": "/ControleD-MASTER/precache-manifest.506ee35ec3f496ab37db40d3f6e3be44.js",
+    "precache-manifest.cf2df5f9fc7900b02e892683eba51dc8.js": "/ControleD-MASTER/precache-manifest.cf2df5f9fc7900b02e892683eba51dc8.js",
+    "service-worker.js": "/ControleD-MASTER/service-worker.js",
+    "static/css/main.04cf1866.chunk.css.map": "/ControleD-MASTER/static/css/main.04cf1866.chunk.css.map",
+    "static/js/2.6d865366.chunk.js.LICENSE": "/ControleD-MASTER/static/js/2.6d865366.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ec7964d3.js",
+    "static/js/2.6d865366.chunk.js",
+    "static/css/main.04cf1866.chunk.css",
+    "static/js/main.cae35395.chunk.js"
+  ]
+}
