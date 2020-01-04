@@ -1,5 +1,5 @@
-importScripts("/ControleD-MASTER/precache-manifest.cf2df5f9fc7900b02e892683eba51dc8.js", "/ControleD-MASTER/workbox-v4.3.1/workbox-sw.js");
-workbox.setConfig({modulePathPrefix: "/ControleD-MASTER/workbox-v4.3.1"});
+importScripts("/Controle-D-Front/precache-manifest.8439ecde2cfc7ffe156e76c88ed60d96.js", "/Controle-D-Front/workbox-v4.3.1/workbox-sw.js");
+workbox.setConfig({modulePathPrefix: "/Controle-D-Front/workbox-v4.3.1"});
 // See https://developers.google.com/web/tools/workbox/guides/configure-workbox
 // workbox.core.setLogLevel(workbox.core.LOG_LEVELS.debug);
 
