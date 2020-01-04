@@ -1,10 +1,17 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "05dbd2c2c817d8f886b662330395f4d0",
+    "revision": "76785d1ea2c8edc58133d06c0dba1164",
     "url": "/Controle-D-Front/index.html"
   },
   {
-    "revision": "0a41873c5daf48681621",
+    "url": "/Controle-D-Front/precache-manifest.387482b7b97c3a6b247ca0a945349757.js"
+  },
+  {
+    "revision": "64a178f073fb39f9c7d9bae7a0b2120b",
+    "url": "/Controle-D-Front/service-worker.js"
+  },
+  {
+    "revision": "b827e3462b1a69118ade",
     "url": "/Controle-D-Front/static/css/main.04cf1866.chunk.css"
   },
   {
@@ -16,8 +23,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/Controle-D-Front/static/js/2.6d865366.chunk.js.LICENSE"
   },
   {
-    "revision": "0a41873c5daf48681621",
-    "url": "/Controle-D-Front/static/js/main.cfe8df7f.chunk.js"
+    "revision": "b827e3462b1a69118ade",
+    "url": "/Controle-D-Front/static/js/main.acf7b13f.chunk.js"
   },
   {
     "revision": "8b7fdd2fb7d4a4ea6a55",

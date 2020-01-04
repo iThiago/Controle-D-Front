@@ -1,4 +1,4 @@
-importScripts("/Controle-D-Front/precache-manifest.8439ecde2cfc7ffe156e76c88ed60d96.js", "/Controle-D-Front/workbox-v4.3.1/workbox-sw.js");
+importScripts("/Controle-D-Front/precache-manifest.45232d678f87f8f3880205370e63798e.js", "/Controle-D-Front/workbox-v4.3.1/workbox-sw.js");
 workbox.setConfig({modulePathPrefix: "/Controle-D-Front/workbox-v4.3.1"});
 // See https://developers.google.com/web/tools/workbox/guides/configure-workbox
 // workbox.core.setLogLevel(workbox.core.LOG_LEVELS.debug);
